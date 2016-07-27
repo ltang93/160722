@@ -1,0 +1,20 @@
+.header{
+	background-color: white;
+	text-align: center;
+}
+.left{
+	overflow: hidden;
+}
+img{
+	width: 5%;
+	line-height: 5%;
+	float: left;
+	position: relative;
+	left:40%;
+}
+h3{
+	margin-top: 5px;
+}
+h1{
+	margin-bottom: 9px;
+}
